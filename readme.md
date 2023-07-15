@@ -1,3 +1,4 @@
+[Preview](https://bankist-website-dummy.netlify.app/)
 # I remade this dummy bank website from a udemy course.
 # Learnings
 ## 1. Intersection Observer API
